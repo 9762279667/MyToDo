@@ -22,6 +22,7 @@ final class MyToDoUITests: XCTestCase {
         // Put teardown code here. This method is called after the invocation of each test method in the class.
     }
 
+
     func testExample() throws {
         // UI tests must launch the application that they test.
         let app = XCUIApplication()
@@ -37,5 +38,35 @@ final class MyToDoUITests: XCTestCase {
                 XCUIApplication().launch()
             }
         }
+    }
+
+    func testAddToDo(){
+        let app = XCUIApplication()
+        app.navigationBars["MyToDo.ItemListView"].buttons["Add"].tap()
+        
+        let titleTextField = app.textFields["Title"]
+        titleTextField.tap()
+        titleTextField.typeText("Meeting")
+        
+        let addressTextField = app.textFields["Adress"]
+        addressTextField.tap()
+        addressTextField.typeText("Shivajinagar, Pune")
+        
+        let descriptionTextField = app.textFields["Description"]
+        descriptionTextField.tap()
+        descriptionTextField.typeText("This is testing description")
+        
+        let datePickerQuery = app.datePickers
+        datePickerQuery.pickerWheels["1970"].adjust(toPickerWheelValue: "2023")
+        datePickerQuery.pickerWheels["July"].adjust(toPickerWheelValue: "July")
+        datePickerQuery.pickerWheels["30"].adjust(toPickerWheelValue: "30")
+        
+        app.keyboards.buttons["return"].tap()
+        
+        app.buttons["Save"].tap()
+        
+        XCTAssertTrue(app.tables.staticTexts["Meeting"].exists)
+        XCTAssertTrue(app.tables.staticTexts["Shivajinagar, Pune"].exists)
+        XCTAssertTrue(app.tables.staticTexts["This is testing description"].exists)
     }
 }

@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8C75D038-F5C5-40B8-AAB5-4917DCD64FE3"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "226070D3-9400-4407-984A-8BB8C820E83B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyToDo/ViewControllers/ItemListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "showDetails(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CFBF233F-BF9C-4BAB-BDD8-46BE7FE92ED7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyToDo/ViewControllers/InputViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "onSave(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CFBF233F-BF9C-4BAB-BDD8-46BE7FE92ED7 - b12c03bbef041077"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[3] = Value Promoted from Box&gt; of closure #1 (Swift.Optional&lt;Swift.Array&lt;__C.CLPlacemark&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MyToDo.InputViewController.onSave(__C.UIButton) -&gt; ()"
+                  moduleName = "MyToDo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinkalokhe/Ni3/workspace/iOS/MyToDo/MyToDo/ViewControllers/InputViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "547">
+               </Location>
+               <Location
+                  uuid = "CFBF233F-BF9C-4BAB-BDD8-46BE7FE92ED7 - b12c03bbef041077"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[3] = Value Promoted from Box&gt; of closure #1 (Swift.Optional&lt;Swift.Array&lt;__C.CLPlacemark&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MyToDo.InputViewController.onSave(__C.UIButton) -&gt; ()"
+                  moduleName = "MyToDo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinkalokhe/Ni3/workspace/iOS/MyToDo/MyToDo/ViewControllers/InputViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "536">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EA4CDCB8-17EE-479E-8B50-36FF2A5B2501"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyToDo/ViewControllers/InputViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "onSave(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EA4CDCB8-17EE-479E-8B50-36FF2A5B2501 - 96175983afba0095"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyToDo.InputViewController.onSave(__C.UIButton) -&gt; ()"
+                  moduleName = "MyToDo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinkalokhe/Ni3/workspace/iOS/MyToDo/MyToDo/ViewControllers/InputViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "2536">
+               </Location>
+               <Location
+                  uuid = "EA4CDCB8-17EE-479E-8B50-36FF2A5B2501 - 96175983afba0095"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyToDo.InputViewController.onSave(__C.UIButton) -&gt; ()"
+                  moduleName = "MyToDo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinkalokhe/Ni3/workspace/iOS/MyToDo/MyToDo/ViewControllers/InputViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "2760">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CA3774EF-8FCF-410E-972D-8A7D6B5EA3F0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyToDo/ViewControllers/ItemListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "addItem(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CA3774EF-8FCF-410E-972D-8A7D6B5EA3F0 - 507dc52520fe0a1b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyToDo.ItemListViewController.addItem(__C.UIBarButtonItem) -&gt; ()"
+                  moduleName = "MyToDo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinkalokhe/Ni3/workspace/iOS/MyToDo/MyToDo/ViewControllers/ItemListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "CA3774EF-8FCF-410E-972D-8A7D6B5EA3F0 - 507dc52520fe0a1b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyToDo.ItemListViewController.addItem(__C.UIBarButtonItem) -&gt; ()"
+                  moduleName = "MyToDo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinkalokhe/Ni3/workspace/iOS/MyToDo/MyToDo/ViewControllers/ItemListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "83">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9966DD0E-4FB9-4F7B-962A-A1B486621938"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyToDoTests/Network/APIClientTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "test_login_usesExpectedHost()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3B55F478-FC0A-4E17-A89D-28075A250298"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyToDoTests/Network/APIClientTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "test_login_givenSuccessResponse_createToke()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "96E575D7-F7F7-483D-AD48-CB5585B035B9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyToDoTests/Network/APIClientTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "test_login_givenSuccessResponse_createToke()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
